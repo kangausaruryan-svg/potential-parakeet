@@ -1,0 +1,15 @@
+{
+  "name": "Trading Command Centre",
+  "short_name": "Trading CC",
+  "description": "Complete paper-trading simulator. Educational only — no live broker connection.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1017",
+  "theme_color": "#10151d",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
